@@ -8,8 +8,8 @@ Once the cloning process is done create a new file in this repository via the we
 
 Inside the file, first enter the following information:
 
-* **Name**: {your name here}
-* **E-Mail**: {your smail address here}
+* **Name**: {Lennart Batz}
+* **E-Mail**: {lennart.batz@smail.th-koeln.de}
 
 Then, answer the following questions in a short text:
 
