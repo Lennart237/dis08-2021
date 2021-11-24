@@ -10,5 +10,6 @@
 <p>I wish to improve my skills to deal with Python and learn new abilities to work with data. Especially I expect that we learn how to extract, transform and load data in various scopes of application.</p>
 <h2>Second lesson</h2>
 <h3>Picture of the quizes</h3>
-![grafik](https://user-images.githubusercontent.com/80069387/143283577-2d565485-dd86-41be-86f7-74e68229cd88.png)
+<h4>10-4=6 - quiz 6</h4>
+<img src=https://user-images.githubusercontent.com/80069387/143283577-2d565485-dd86-41be-86f7-74e68229cd88.png alt=picture of my student ID card and the solution for quiz number 6>
 
