@@ -9,4 +9,5 @@
 <b>What expectations or wishes do you have on the data modeling course?</b><br>
 <p>I wish to improve my skills to deal with Python and learn new abilities to work with data. Especially I expect that we learn how to extract, transform and load data in various scopes of application.</p>
 <h2>Second lesson</h2>
+<h3>Picture of the quizes</h3>
 
