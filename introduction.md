@@ -2,7 +2,6 @@
 <h2>The beginning - general information</h2>
 <b>Name:</b> Lennart Batz<br>
 <b>E-Mail:</b> lennart.batz@smail.th-koeln.de<br>
-<br>
 <h2>The beginning - information about me</h2>
 <b>Do you have any prior experience in the field introduced in the introductory session? If so, give a short overview on them.</b><br>
 <p>Since I study Data and Information Science I often came in contact with data including everything which belongs to it. Before my study I knew that it exists and it was a topic what does interest me. I also knew the importance today and in the near future. In the first and second semester I discussed topics, which belong to data. For example I learned how to correctly present given data in diagrams. In an other subject I learned the programming language Python. With this new ability I am able to find information, which are important for me or other organisations, from texts or other data sources.</p>
