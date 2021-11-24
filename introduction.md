@@ -14,3 +14,6 @@
 <img src="https://user-images.githubusercontent.com/80069387/143283577-2d565485-dd86-41be-86f7-74e68229cd88.png" alt="picture of my student ID card and the solution for quiz number 6" width="300" height="450">
 <h4>10-3=7 - quiz 7</h4>
 <img src="https://user-images.githubusercontent.com/80069387/143285090-931fba12-2c19-44bb-86dd-fbb634c87f42.png" alt="picture of my student ID card and the solution for quiz number 7" width="300" height="450">
+<h4>10-1=9 - quiz 9</h4>
+<img src="https://user-images.githubusercontent.com/80069387/143286356-678d61dd-ef4e-4a50-aa99-fc8011cc37e4.png" alt="picture of my student ID card and the solution for quiz number 9" width="300" height="450">
+
