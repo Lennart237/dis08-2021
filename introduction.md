@@ -5,3 +5,4 @@
 <p>Since I study Data and Information Science I often came in contact with data including everything which belongs to it. Before my study I knew that it exists and it was a topic what does interest me. I also knew the importance today and in the near future. In the first and second semester I discussed topics, which belong to data. For example I learned how to correctly present given data in diagrams. In an other subject I learned the programming language Python. With this new ability I am able to find information, which are important for me or other organisations, from texts or other data sources.</p>
 <b>What expectations or wishes do you have on the data modeling course?</b>
 <p>I wish to improve my skills to deal with Python and learn new abilities to work with data. Especially I expect that we learn how to extract, transform and load data in various scopes of application.</p>
+<br>
